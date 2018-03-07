@@ -6,7 +6,7 @@ BFS implementation of frequent subtree mining on the CPU. The code uses Moahamma
 
 `1. make`
 
-`2. ./htreeminer -i<input_file> -s<support> -o<print output>
+`2. ./htreeminer -i<input_file> -s<support> -o<print output>`
 
         -i,      dataset of trees
         -s,      support threshold between (0,1)
